@@ -7,7 +7,7 @@ function getIt() {
 
 function frameIt(){
   $('img').on('load',function(){
-    $('img').addClass("border","2px solid red");
+    $('img').addClass('tasty');
   });
 }
 
